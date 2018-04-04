@@ -1,11 +1,11 @@
-**Simple database connectivity server
+# Simple database connectivity server
 
-**Development
+## Development
 
 To start a server run `npm start` in the root.
 By default it will run on `localhost:3000`. To change the port set env variable `PORT` to what you want.
 
-**API
+## API
 
 1. `POST {endpoint}/connection/`
 
